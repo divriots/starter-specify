@@ -1,0 +1,26 @@
+name: Run style-dictionary
+
+on: pull_request
+
+jobs:
+  style_dictionary:
+    name: Run style-dictionary
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # checkout to the head of this PR
+      - uses: actions/checkout@master
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Run style-dictionary
+        run: npx style-dictionary build --config sd.config.cjs
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Joren Broekema
+          author_email: joren.broekema@gmail.com
+          message: 'chore: style-dictionary results'
+          add: '.'
