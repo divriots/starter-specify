@@ -24,7 +24,7 @@
 
 .btn[outline] {
   background-color: var(--starter-color-base-button-outline-background);
-  border: 2px var(--starter-color-base-button-outline-border-color);
+  border: 1px solid var(--starter-color-base-button-outline-border-color);
 }
 
 .btn[disabled] {
