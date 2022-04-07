@@ -1,0 +1,35 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 07 Apr 2022 13:08:38 GMT
+ */
+
+:root {
+  --starter-color-base-core-colors-primary-50: #eef2ff;
+  --starter-color-base-core-colors-primary-100: #e0e7ff;
+  --starter-color-base-core-colors-primary-200: #c7d2fe;
+  --starter-color-base-core-colors-primary-300: #a5b4fc;
+  --starter-color-base-core-colors-primary-400: #818cf8;
+  --starter-color-base-core-colors-primary-500: #6366f1;
+  --starter-color-base-core-colors-primary-600: #4f46e5;
+  --starter-color-base-core-colors-primary-700: #4338ca;
+  --starter-color-base-core-colors-primary-800: #3730a3;
+  --starter-color-base-core-colors-primary-900: #312e81;
+  --starter-color-base-core-colors-grey-50: #f9fafb;
+  --starter-color-base-core-colors-grey-100: #f3f4f6;
+  --starter-color-base-core-colors-grey-200: #e5e7eb;
+  --starter-color-base-core-colors-grey-300: #d1d5db;
+  --starter-color-base-core-colors-grey-400: #9ca3af;
+  --starter-color-base-core-colors-grey-500: #6b7280;
+  --starter-color-base-core-colors-grey-600: #4b5563;
+  --starter-color-base-core-colors-grey-700: #374151;
+  --starter-color-base-core-colors-grey-800: #1f2937;
+  --starter-color-base-core-colors-grey-900: #111827;
+  --starter-color-base-button-primary-hover-background: #818cf8;
+  --starter-color-base-button-primary-focus-outline: #111827;
+  --starter-color-base-button-primary-disabled-background: #3730a3;
+  --starter-color-base-button-primary-color: #f9fafb;
+  --starter-color-base-button-primary-background: #6366f1;
+  --starter-color-base-button-primary-active-shadow: #3730a3;
+  --starter-color-base-button-outline-border-color: #111827;
+  --starter-color-base-button-outline-background: rgba(0, 0, 0, 0);
+}
