@@ -1,0 +1,27 @@
+{
+  "repository": "@divriots/starter-specify",
+  "head": "specify",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "path": "",
+      "filter": {
+        "types": ["color"]
+      },
+      "parsers": [
+        {
+          "name": "sort-by",
+          "options": {
+            "keys": ["name"]
+          }
+        },
+        {
+          "name": "to-style-dictionary",
+          "options": {
+            "splitBy": "/"
+          }
+        }
+      ]
+    }
+  ]
+}
