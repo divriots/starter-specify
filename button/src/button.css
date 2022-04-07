@@ -1,14 +1,3 @@
-/**
---starter-color-base-button-primary-hover-background: #818cf8;
-  --starter-color-base-button-primary-focus-outline: #111827;
-  --starter-color-base-button-primary-disabled-background: #3730a3;
-  --starter-color-base-button-primary-color: #f9fafb;
-  --starter-color-base-button-primary-background: #6366f1;
-  --starter-color-base-button-primary-active-shadow: #3730a3;
-  --starter-color-base-button-outline-border-color: #111827;
-  --starter-color-base-button-outline-background: rgba(0, 0, 0, 0);
-  */
-
 .btn {
   background-color: var(--starter-color-base-button-primary-background);
   padding: 0.5rem 1.5rem;
