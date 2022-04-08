@@ -27,6 +27,10 @@
   border: 1px solid var(--starter-color-base-button-outline-border-color);
 }
 
+.btn[outline]:hover {
+  background-color: var(--starter-color-base-button-outline-hover-background);
+}
+
 .btn[disabled] {
   background-color: var(
     --starter-color-base-button-primary-disabled-background
