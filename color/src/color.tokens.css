@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 07 Apr 2022 13:41:55 GMT
+ * Generated on Fri, 08 Apr 2022 10:18:03 GMT
  */
 
 :root {
@@ -29,7 +29,8 @@
   --starter-color-base-button-primary-disabled-background: #3730a3;
   --starter-color-base-button-primary-color: #f9fafb;
   --starter-color-base-button-primary-background: #6366f1;
-  --starter-color-base-button-primary-active-shadow: #3730a3;
+  --starter-color-base-button-primary-active-shadow: #312e81;
+  --starter-color-base-button-outline-hover-background: rgba(255, 255, 255, 0.1);
   --starter-color-base-button-outline-border-color: #f9fafb;
   --starter-color-base-button-outline-background: rgba(0, 0, 0, 0);
 }
