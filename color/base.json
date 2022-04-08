@@ -36,9 +36,10 @@
           "disabled": { "background": { "value": "rgb(55, 48, 163)" } },
           "color": { "value": "rgb(249, 250, 251)" },
           "background": { "value": "rgb(99, 102, 241)" },
-          "active": { "shadow": { "value": "rgb(55, 48, 163)" } }
+          "active": { "shadow": { "value": "rgb(49, 46, 129)" } }
         },
         "outline": {
+          "hover": { "background": { "value": "rgba(255, 255, 255, 0.1)" } },
           "border": { "color": { "value": "rgb(249, 250, 251)" } },
           "background": { "value": "rgba(0, 0, 0, 0)" }
         }
