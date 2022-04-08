@@ -3,7 +3,8 @@ name: Run style-dictionary
 on: pull_request
 
 jobs:
-  style_dictionary:
+  run_if: # only if base branch is "specify"
+    if: ${{ github.head_ref == 'specify' }}
     name: Run style-dictionary
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -22,5 +23,5 @@ jobs:
         with:
           author_name: Joren Broekema
           author_email: joren.broekema@gmail.com
-          message: 'chore: style-dictionary results'
+          message: 'chore: style-dictionary output'
           add: '.'
