@@ -1,0 +1,34 @@
+.btn {
+  background-color: var(--starter-color-base-button-primary-background);
+  padding: 0.5rem 1.5rem;
+  color: var(--starter-color-base-button-primary-color);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.25rem;
+}
+
+.btn:hover {
+  background-color: var(--starter-color-base-button-primary-hover-background);
+}
+
+.btn:focus {
+  outline: 2px solid var(--starter-color-base-button-primary-focus-outline);
+  outline-offset: 2px;
+}
+
+.btn:active {
+  box-shadow: inset 0 0 0px 2px
+    var(--starter-color-base-button-primary-active-shadow);
+}
+
+.btn[outline] {
+  background-color: var(--starter-color-base-button-outline-background);
+  border: 1px solid var(--starter-color-base-button-outline-border-color);
+}
+
+.btn[disabled] {
+  background-color: var(
+    --starter-color-base-button-primary-disabled-background
+  );
+}
