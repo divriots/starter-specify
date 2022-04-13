@@ -4,17 +4,8 @@
   "rules": [
     {
       "name": "Design Tokens / Colors",
-      "path": "",
-      "filter": {
-        "types": ["color"]
-      },
+      "path": "sd-input/",
       "parsers": [
-        {
-          "name": "sort-by",
-          "options": {
-            "keys": ["name"]
-          }
-        },
         {
           "name": "to-style-dictionary",
           "options": {
