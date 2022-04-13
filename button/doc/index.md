@@ -4,7 +4,7 @@ This is a button component.
 
 ```js script
 import { html } from 'lit';
-import '~/color/src/color.tokens.css';
+import '~/sd-output/variables.css';
 import '../src/button.css';
 ```
 
