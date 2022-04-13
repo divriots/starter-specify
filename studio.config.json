@@ -2,7 +2,7 @@
   "packages": {
     "dir": "",
     "menu": [
-      ["TOKENS", ["color", "sd-output"]],
+      ["TOKENS", ["color", "sd-input", "sd-output"]],
       ["COMPONENTS", ["button"]],
       ["INFRASTRUCTURE", ["doc-layout"]]
     ]
