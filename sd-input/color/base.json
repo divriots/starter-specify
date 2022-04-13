@@ -1,0 +1,49 @@
+{
+  "color": {
+    "base": {
+      "core": {
+        "colors": {
+          "primary": {
+            "50": { "value": "rgb(238, 242, 255)" },
+            "100": { "value": "rgb(224, 231, 255)" },
+            "200": { "value": "rgb(199, 210, 254)" },
+            "300": { "value": "rgb(165, 180, 252)" },
+            "400": { "value": "rgb(129, 140, 248)" },
+            "500": { "value": "rgb(99, 102, 241)" },
+            "600": { "value": "rgb(79, 70, 229)" },
+            "700": { "value": "rgb(67, 56, 202)" },
+            "800": { "value": "rgb(55, 48, 163)" },
+            "900": { "value": "rgb(49, 46, 129)" }
+          },
+          "grey": {
+            "50": { "value": "rgb(249, 250, 251)" },
+            "100": { "value": "rgb(243, 244, 246)" },
+            "200": { "value": "rgb(229, 231, 235)" },
+            "300": { "value": "rgb(209, 213, 219)" },
+            "400": { "value": "rgb(156, 163, 175)" },
+            "500": { "value": "rgb(107, 114, 128)" },
+            "600": { "value": "rgb(75, 85, 99)" },
+            "700": { "value": "rgb(55, 65, 81)" },
+            "800": { "value": "rgb(31, 41, 55)" },
+            "900": { "value": "rgb(17, 24, 39)" }
+          }
+        }
+      },
+      "button": {
+        "primary": {
+          "hover": { "background": { "value": "rgb(129, 140, 248)" } },
+          "focus": { "outline": { "value": "rgb(249, 250, 251)" } },
+          "disabled": { "background": { "value": "rgb(55, 48, 163)" } },
+          "color": { "value": "rgb(249, 250, 251)" },
+          "background": { "value": "rgb(99, 102, 241)" },
+          "active": { "shadow": { "value": "rgb(49, 46, 129)" } }
+        },
+        "outline": {
+          "hover": { "background": { "value": "rgba(255, 255, 255, 0.1)" } },
+          "border": { "color": { "value": "rgb(249, 250, 251)" } },
+          "background": { "value": "rgba(0, 0, 0, 0)" }
+        }
+      }
+    }
+  }
+}
