@@ -15,7 +15,14 @@ module.exports = {
   },
   platforms: {
     css: {
-      transforms: ['name/cti/kebab', 'reduced-name'],
+      // Taken from the CSS transformGroup
+      // + our own transformer
+      transforms: [
+        'attribute/cti',
+        'name/cti/kebab',
+        'color/css',
+        'reduced-name',
+      ],
       buildPath: 'sd-output/',
       files: [
         {

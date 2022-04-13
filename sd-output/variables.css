@@ -1,36 +1,36 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Apr 2022 10:26:04 GMT
+ * Generated on Wed, 13 Apr 2022 10:32:06 GMT
  */
 
 :root {
-  --specify-core-colors-primary-50: rgb(238, 242, 255);
-  --specify-core-colors-primary-100: rgb(224, 231, 255);
-  --specify-core-colors-primary-200: rgb(199, 210, 254);
-  --specify-core-colors-primary-300: rgb(165, 180, 252);
-  --specify-core-colors-primary-400: rgb(129, 140, 248);
-  --specify-core-colors-primary-500: rgb(99, 102, 241);
-  --specify-core-colors-primary-600: rgb(79, 70, 229);
-  --specify-core-colors-primary-700: rgb(67, 56, 202);
-  --specify-core-colors-primary-800: rgb(55, 48, 163);
-  --specify-core-colors-primary-900: rgb(49, 46, 129);
-  --specify-core-colors-grey-50: rgb(249, 250, 251);
-  --specify-core-colors-grey-100: rgb(243, 244, 246);
-  --specify-core-colors-grey-200: rgb(229, 231, 235);
-  --specify-core-colors-grey-300: rgb(209, 213, 219);
-  --specify-core-colors-grey-400: rgb(156, 163, 175);
-  --specify-core-colors-grey-500: rgb(107, 114, 128);
-  --specify-core-colors-grey-600: rgb(75, 85, 99);
-  --specify-core-colors-grey-700: rgb(55, 65, 81);
-  --specify-core-colors-grey-800: rgb(31, 41, 55);
-  --specify-core-colors-grey-900: rgb(17, 24, 39);
-  --specify-button-primary-hover-background: rgb(129, 140, 248);
-  --specify-button-primary-focus-outline: rgb(249, 250, 251);
-  --specify-button-primary-disabled-background: rgb(55, 48, 163);
-  --specify-button-primary-color: rgb(249, 250, 251);
-  --specify-button-primary-background: rgb(99, 102, 241);
-  --specify-button-primary-active-shadow: rgb(49, 46, 129);
+  --specify-core-colors-primary-50: #eef2ff;
+  --specify-core-colors-primary-100: #e0e7ff;
+  --specify-core-colors-primary-200: #c7d2fe;
+  --specify-core-colors-primary-300: #a5b4fc;
+  --specify-core-colors-primary-400: #818cf8;
+  --specify-core-colors-primary-500: #6366f1;
+  --specify-core-colors-primary-600: #4f46e5;
+  --specify-core-colors-primary-700: #4338ca;
+  --specify-core-colors-primary-800: #3730a3;
+  --specify-core-colors-primary-900: #312e81;
+  --specify-core-colors-grey-50: #f9fafb;
+  --specify-core-colors-grey-100: #f3f4f6;
+  --specify-core-colors-grey-200: #e5e7eb;
+  --specify-core-colors-grey-300: #d1d5db;
+  --specify-core-colors-grey-400: #9ca3af;
+  --specify-core-colors-grey-500: #6b7280;
+  --specify-core-colors-grey-600: #4b5563;
+  --specify-core-colors-grey-700: #374151;
+  --specify-core-colors-grey-800: #1f2937;
+  --specify-core-colors-grey-900: #111827;
+  --specify-button-primary-hover-background: #818cf8;
+  --specify-button-primary-focus-outline: #f9fafb;
+  --specify-button-primary-disabled-background: #3730a3;
+  --specify-button-primary-color: #f9fafb;
+  --specify-button-primary-background: #6366f1;
+  --specify-button-primary-active-shadow: #312e81;
   --specify-button-outline-hover-background: rgba(255, 255, 255, 0.1);
-  --specify-button-outline-border-color: rgb(249, 250, 251);
+  --specify-button-outline-border-color: #f9fafb;
   --specify-button-outline-background: rgba(0, 0, 0, 0);
 }
