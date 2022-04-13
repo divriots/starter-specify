@@ -1,25 +1,10 @@
 {
- "packages": {
-  "dir": "",
-  "menu": [
-   [
-    "TOKENS",
-    [
-     "color"
+  "packages": {
+    "dir": "",
+    "menu": [
+      ["TOKENS", ["color", "sd-output"]],
+      ["COMPONENTS", ["button"]],
+      ["INFRASTRUCTURE", ["doc-layout"]]
     ]
-   ],
-   [
-    "COMPONENTS",
-    [
-     "button"
-    ]
-   ],
-   [
-    "INFRASTRUCTURE",
-    [
-     "doc-layout"
-    ]
-   ]
-  ]
- }
+  }
 }

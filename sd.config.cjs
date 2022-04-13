@@ -4,10 +4,10 @@ module.exports = {
     css: {
       transformGroup: 'css',
       prefix: 'specify',
-      buildPath: '',
+      buildPath: 'sd-output/',
       files: [
         {
-          destination: '_variables.css',
+          destination: 'variables.css',
           format: 'css/variables',
         },
       ],
