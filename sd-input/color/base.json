@@ -9,7 +9,7 @@
             "200": { "value": "rgb(199, 210, 254)" },
             "300": { "value": "rgb(165, 180, 252)" },
             "400": { "value": "rgb(129, 140, 248)" },
-            "500": { "value": "rgb(99, 102, 241)" },
+            "500": { "value": "rgb(99, 204, 242)" },
             "600": { "value": "rgb(79, 70, 229)" },
             "700": { "value": "rgb(67, 56, 202)" },
             "800": { "value": "rgb(55, 48, 163)" },
@@ -35,7 +35,7 @@
           "focus": { "outline": { "value": "rgb(249, 250, 251)" } },
           "disabled": { "background": { "value": "rgb(55, 48, 163)" } },
           "color": { "value": "rgb(249, 250, 251)" },
-          "background": { "value": "rgb(99, 102, 241)" },
+          "background": { "value": "rgb(99, 204, 242)" },
           "active": { "shadow": { "value": "rgb(49, 46, 129)" } }
         },
         "outline": {
