@@ -1,15 +1,15 @@
 # Starter Specify
 
-This starter-kit is for users that want to use [Specify](https://specifyapp.com) and
+This starter kit is for users that want to use [Specify](https://specifyapp.com) and
 Design Tokens in [Figma](https://www.figma.com/) as a starting point to build their Design System.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEbDt-ydmfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Full documentation about setting up this workflow can be found in our [Backlight Specify Docs](https://backlight.dev/docs/specify.html), you will need this if you duplicate this starter-kit.
+Full documentation about setting up this workflow can be found in our [Backlight Specify Docs](https://backlight.dev/docs/specify.html), you will need this if you duplicate this starter kit.
 
 If you are starting with [Backlight](https://backlight.dev), check the links below:
 
-- [Explore starter-kits](https://backlight.dev/starterkits)
+- [Explore starter kits](https://backlight.dev/starterkits)
 - [Backlight documentation](https://backlight.dev/docs)
 - [Join chat](https://discord.gg/XkQxSU9)
 
