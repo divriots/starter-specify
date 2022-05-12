@@ -5,7 +5,7 @@ Design Tokens in [Figma](https://www.figma.com/) as a starting point to build th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEbDt-ydmfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Full documentation about setting up this workflow can be found in our [Backlight Specify Docs](https://backlight.dev/docs/specify.html), you will need this if you duplicate this starter kit.
+Full documentation about setting up this workflow can be found in our [Backlight Specify Docs](https://backlight.dev/docs/specify), you will need this if you duplicate this starter kit.
 
 If you are starting with [Backlight](https://backlight.dev), check the links below:
 
